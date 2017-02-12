@@ -11,6 +11,12 @@
 // easier, the line segments will only be horizontal, vertical or diagonal (a
 // diagonal line segment is one whose slope is 1 or -1).
 
+// Concepts:
+// General form equation of a line
+// Line–line_intersection
+// Connected components of undirected graph
+// Euler's formula for a finite, connected, planar graph
+
 #include <algorithm>
 #include <float.h>
 #include <iostream>
